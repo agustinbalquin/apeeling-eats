@@ -1,0 +1,7 @@
+:root {
+  --dark: #404040;
+  --light-gray: #a2a2a2;
+  --white: #ffffff;
+  --highlight: #58d35f;
+  --heading-color: var(--highlight);
+}
